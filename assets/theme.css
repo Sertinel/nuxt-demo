@@ -1,0 +1,8 @@
+/* Centralized theme management */
+:root {
+  --primary-green: #4CAF50;
+  --light-green: #8BC34A;
+  --dark-green: #388E3C;
+  --white: #FFFFFF;
+  --off-white: #F5F5F5;
+}
